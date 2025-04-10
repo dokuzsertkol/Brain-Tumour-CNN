@@ -9,6 +9,7 @@ Kurulum:
 - googlenet'in kurulumunu sağlayın.
 - alexnet ve resnet50 için aynı adımları tekrarlayın.
 - matlab'de Deep Learning Toolbox ve Image Processing Toolbox'un kurulu olduğundan emin olun.
+- app isimli dosyayı app designer'dan açın.
 
 Kullanım:
 - sol kısımda "TRAIN" kısmı bulunmaktadır.
