@@ -14,6 +14,7 @@ Kurulum:
 Kullanım:
 - sol kısımda "TRAIN" kısmı bulunmaktadır.
 - istediğiniz parametreleri seçerek model trainleyin.
+- confusion matrix, accuracy, recall, f1-score ve precision yazdırılır; model kaydedilir.
 - sağ kısımda "PREDICT" kısmı bulunmaktadır.
 - sol kısımı kullanarak trainlediğiniz modeller model kısmında seçilebilir şekilde listelenir.
 - istediğiniz parametreleri ve görseli seçerek prediction yapın.
