@@ -2,7 +2,7 @@
 Using myCNN, googleNet, alexNet and ResNet50 
 
 Kurulum:
-- zip dosyanını "buraya çıkart" diyerek çıkartın.
+- zip dosyasını "buraya çıkart" diyerek çıkartın.
 - matlab'i açın.
 - klasördeki googlenet isimli dosyaya çift tıklayın.
 - matlab'de add-on manager'ın açılması lazım.
